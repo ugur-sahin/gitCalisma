@@ -14,5 +14,6 @@ public class Ogrenci {
         System.out.println("Merhaba arkadaşlar yeni kod1");
         System.out.println("Merhaba arkadaşlar yeni kod2");
         System.out.println("Merhaba arkadaşlar yeni kod3");
+        System.out.println("Merhaba arkadaşlar yeni kod4");
     }
 }
