@@ -11,6 +11,8 @@ public class Ogrenci {
 
         System.out.println("Bilal");
 
+        System.out.println("Burak");
+
 
     }
 }
